@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Agu-Bright/myFirstReact/static/css/main.d9f2d855.css",
+    "main.js": "/Agu-Bright/myFirstReact/static/js/main.b7fec5c2.js",
+    "static/js/787.fade2e9e.chunk.js": "/Agu-Bright/myFirstReact/static/js/787.fade2e9e.chunk.js",
+    "static/media/image.png": "/Agu-Bright/myFirstReact/static/media/image.57d728fd3b8783f39e13.png",
+    "index.html": "/Agu-Bright/myFirstReact/index.html",
+    "main.d9f2d855.css.map": "/Agu-Bright/myFirstReact/static/css/main.d9f2d855.css.map",
+    "main.b7fec5c2.js.map": "/Agu-Bright/myFirstReact/static/js/main.b7fec5c2.js.map",
+    "787.fade2e9e.chunk.js.map": "/Agu-Bright/myFirstReact/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f2d855.css",
+    "static/js/main.b7fec5c2.js"
+  ]
+}
